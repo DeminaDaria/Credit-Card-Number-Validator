@@ -14,7 +14,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Файл [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
+* Файл [Установка IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
 
 В качестве тестовых данных использовался проверочный код:
 
@@ -29,6 +29,7 @@ public class Main {
  * Устройство: Windows 10 Home 64bit, [Version 10.0.19041.450]
  * Браузер: Google Chrome Версия 84.0.4147.135 (Официальная сборка), (64 бит)
  * java: 11.0.8 2020-07-14
+ * IntelliJ IDEA Community 2020.2
 
 
 
@@ -103,4 +104,4 @@ public class Main {
  * Устройство: Windows 10 Home 64bit, [Version 10.0.19041.450]
  * Браузер: Google Chrome Версия 84.0.4147.135 (Официальная сборка), (64 бит)
  * java: 11.0.8 2020-07-14
- * файл [KeyValidator.class.](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class)
+ * IntelliJ IDEA Community 2020.2
