@@ -16,8 +16,15 @@
 В процессе тестирования использовались следующие артефакты:
 * Файл [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 
-В качестве тестовых данных использовался [Проверочный код](https://github.com/netology-code/javaqa-code/blob/master/1.1_intro/hello-programming/src/Main.java):
+В качестве тестовых данных использовался проверочный код:
 
+```java
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello QA!");
+  }
+}
+```
 Тестирование производилось в следующем окружении:
  * Устройство: Windows 10 Home 64bit, [Version 10.0.19041.450]
  * Браузер: Google Chrome Версия 84.0.4147.135 (Официальная сборка), (64 бит)
