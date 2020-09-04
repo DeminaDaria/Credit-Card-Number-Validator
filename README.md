@@ -16,7 +16,7 @@
 В процессе тестирования использовались следующие артефакты:
 * Файл [Инструкция по установке OpenJDK11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 
-В качестве тестовых данных использовалась [Проверочный код](https://github.com/netology-code/javaqa-code/blob/master/1.1_intro/hello-programming/src/Main.java):
+В качестве тестовых данных использовался [Проверочный код](https://github.com/netology-code/javaqa-code/blob/master/1.1_intro/hello-programming/src/Main.java):
 
 Тестирование производилось в следующем окружении:
  * Устройство: Windows 10 Home 64bit, [Version 10.0.19041.450]
@@ -31,7 +31,7 @@
 
 <04.09.2020> было проведено тестирование компонента приложения Credit Card Number Validator методом предположения об ошибках на Windows 10 Home 64bit.
 
-На тестирование затрачено: ~1,5 минут.
+На тестирование затрачено: ~2 часов.
 
 В результате тестирования выявлены следующие дефекты:
 
